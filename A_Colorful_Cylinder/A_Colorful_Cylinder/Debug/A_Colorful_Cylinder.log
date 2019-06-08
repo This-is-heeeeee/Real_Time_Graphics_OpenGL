@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\이건희\source\repos\a_colorful_cylinder\a_colorful_cylinder\mycolorcylinder.h(43): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이건희\source\repos\a_colorful_cylinder\a_colorful_cylinder\mycolorcylinder.h(52): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이건희\source\repos\a_colorful_cylinder\a_colorful_cylinder\mycolorcylinder.h(53): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이건희\source\repos\a_colorful_cylinder\a_colorful_cylinder\mycolorcylinder.h(54): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이건희\source\repos\a_colorful_cylinder\a_colorful_cylinder\mycolorcylinder.h(69): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이건희\source\repos\a_colorful_cylinder\a_colorful_cylinder\main.cpp(28): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  A_Colorful_Cylinder.vcxproj -> C:\Users\이건희\source\repos\A_Colorful_Cylinder\Debug\A_Colorful_Cylinder.exe
